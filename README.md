@@ -1,13 +1,6 @@
 # AtliQ-Hospitality-Analysis
 In this project we need to create a dashboard using power BI ,for the revenue management team of AtliQ Grand hotel chain, which can provide key insights on Revenue trend.
 
-
-## Table of Contents
-
-- [Problem Statement](#Problem-statement)
-- [Task](#Task)
-- 
-
 ## Problem Statement :
 
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
@@ -34,12 +27,29 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 
-## Data Cleaning :
 
-- Few transformations and cleaning done in power query .
+## Step by Step Process :
 
-
-##Insights :
+- Imported and transformed data in Power BI.
+  - I've used Power Query to connect to input folder and expanded CSV files.
+  - Performed data transformation and established relationships in data modeling.
+- Created calculated columns and measures in Power BI.
+- And then I've Created few filters and key performance indicators.
+- Finally created dashboard using appropriate visualization.
 
 
 ## Things I've learned from this project :
+
+- I've got the hospitality domain knowledge ,and yeah having domain knowledge is really important and that will be helpful to full fill the requirements of stakeholders.
+
+- And I've got to know few important key metrics which plays an important role in hotel revenue performance like 
+  - Revenue per available room (RevPar)
+  - Average Daily Rate (ADR)
+  - Occupancy %
+  - Daily Sellable Room Nights (DSRN)
+  - Realisation %
+ 
+- In order to create these KPI's ,I've learnt the effective usage of DAX.
+- And proper usage of color palettes for creating dashboards.
+ 
+
