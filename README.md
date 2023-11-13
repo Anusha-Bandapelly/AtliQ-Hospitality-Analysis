@@ -43,13 +43,15 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 
-![Dashboard_1](https://github.com/Anusha-Bandapelly/AtliQ-Hospitality-Analysis/assets/150471992/236ebabf-a9b2-46be-b356-f4eb5eda7873)
 
 
+![Dashboard](https://github.com/Anusha-Bandapelly/AtliQ-Hospitality-Analysis/assets/150471992/c2c42e9e-430e-411a-a0ab-b9b745b7933b)
 
 
 
 ## Insights :
+
+- 
 
 
 ## Things I've learned from this project :
