@@ -1,5 +1,5 @@
 # AtliQ-Hospitality-Analysis
-In this project we need to create a dashboard using power BI ,for the revenue management team of AtliQ Grand hotel chain, which can provide key insights on Revenue trend.
+In this project I've created a dashboard using power BI ,for the revenue management team of AtliQ Grand hotel chain, which can provide key insights on Revenue trend.
 
 ## Problem Statement :
 
@@ -27,7 +27,6 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 
 
-
 ## Step by Step Process :
 
 - Imported and transformed data in Power BI.
@@ -36,6 +35,21 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 - Created calculated columns and measures in Power BI.
 - And then I've Created few filters and key performance indicators.
 - Finally created dashboard using appropriate visualization.
+
+
+## Dashboard :
+![Dashboard](Dashboard_1.PNG)
+
+
+
+
+![Dashboard_1](https://github.com/Anusha-Bandapelly/AtliQ-Hospitality-Analysis/assets/150471992/236ebabf-a9b2-46be-b356-f4eb5eda7873)
+
+
+
+
+
+## Insights :
 
 
 ## Things I've learned from this project :
@@ -50,6 +64,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
   - Realisation %
  
 - In order to create these KPI's ,I've learnt the effective usage of DAX.
+- Understanding the  requirements of business based on the data.
 - And proper usage of color palettes for creating dashboards.
  
 
