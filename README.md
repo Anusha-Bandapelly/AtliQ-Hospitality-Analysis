@@ -66,7 +66,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
   - Realisation %
  
 - In order to create these KPI's ,I've learnt the effective usage of DAX.
-- Understanding the  requirements of business based on the data.
+- Understanding the  requirements of business based on the data and learnt how to ask right questions to stakeholders in order to prepare an effective dashboard.
 - And proper usage of color palettes for creating dashboards.
  
 
