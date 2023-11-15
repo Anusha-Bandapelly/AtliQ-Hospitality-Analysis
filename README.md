@@ -51,6 +51,9 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 
 ## Insights :
 
+- From the visualization i.e., Trends by Key Metrics we can see that Mumbai city is generating highest Revenue and the Delhi city generating lowest Revenue,So now we take actions accordingly.
+- And if we observe Average Rating the AtliQ Exotica property has highest rating meanwhile AtliQ Seasons has lowest rating.
+- If we see the Revenue % by Category ,the Revenue from the Luxury Category is more than the Businees Category.
 - 
 
 
